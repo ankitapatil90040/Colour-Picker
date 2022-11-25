@@ -1,0 +1,142 @@
+*
+   {
+       margin: 0;
+       padding: 0;
+   }
+   body{
+       text-align: center;
+   }
+    button {
+       
+        padding: 10px;
+        margin-left: 70px;
+        border: 1px #ccc solid;
+        border-radius: 5px;
+        -webkit-box-shadow: 0 8px 6px -6px black;
+       -moz-box-shadow: 0 8px 6px -6px black;
+            box-shadow: 0 8px 6px -6px black;
+        
+       
+    }
+    #click-btn:hover
+    {
+        background-color: black;
+        color: white;
+    }
+
+   
+
+    
+    .header{
+        display: flex;
+        background-color:#e2e8f0; 
+        -webkit-box-shadow: 0 8px 6px -6px black;
+       -moz-box-shadow: 0 8px 6px -6px black;
+            box-shadow: 0 8px 6px -6px black;
+        
+         
+    }
+    .header div{
+        padding: 10px;
+       
+    }
+    .box1
+    {
+        flex:2;
+        text-align: center;
+        
+    }
+    .box2
+    {
+        flex:0.5;
+        font-size: larger;
+        line-height: 35px;
+    }
+    .box3
+    {
+        flex:0.5;
+        font-size: larger;
+        line-height: 35px;
+    }
+    .box4
+    {
+        flex:0.5;
+        font-size: larger;
+        line-height: 35px;
+    }
+    .box5
+    {
+        flex:0.5;
+        font-size: larger;
+        line-height: 35px;
+    }
+   
+   
+    a {
+        text-decoration: none ;
+    }
+    .container
+    {
+        
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+        width: 60%;
+
+padding: 10px;
+    }
+    .container h3{
+        background-color: black;
+        color: white;
+        margin-top: 200px;
+        border-radius: 20px;
+        margin-left: 200;
+        padding: 10px;
+    }
+    .input
+    {
+        margin-left:350px;
+        margin-bottom: 10px;
+       
+        
+    }
+    #inputId1{
+        width: 200px;
+        height: 40px;
+        border: 1px #ccc solid;
+        border-radius: 5px;
+        text-align: center;
+        margin: auto;
+        -webkit-box-shadow: 0 8px 6px -6px black;
+        -moz-box-shadow: 0 8px 6px -6px black;
+         box-shadow: 0 8px 6px -6px black;
+
+    }
+    #inputId2{
+        width: 200px;
+        height: 40px;
+        border: 1px #ccc solid;
+        border-radius: 5px;
+        text-align: center;
+        -webkit-box-shadow: 0 8px 6px -6px black;
+        -moz-box-shadow: 0 8px 6px -6px black;
+         box-shadow: 0 8px 6px -6px black;
+
+    }
+    #inputId3{
+        width: 200px;
+        height: 40px;
+        border: 1px #ccc solid;
+        border-radius: 5px;
+        text-align: center;
+        -webkit-box-shadow: 0 8px 6px -6px black;
+        -moz-box-shadow: 0 8px 6px -6px black;
+         box-shadow: 0 8px 6px -6px black;
+
+    }
+    .centre
+    {
+        text-align: center;
+        margin: 10px;
+    }
+
